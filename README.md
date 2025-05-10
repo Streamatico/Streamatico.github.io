@@ -1,11 +1,6 @@
-# Streamatico Apps
+Welcome! This is the official page for mobile apps developed by Streamatico.
 
-Welcome! This is the official page for mobile applications developed by Streamatico.
-Here you can find information about our apps and links to their dedicated pages.
-
----
-
-## Our Applications
+## Apps
 
 ### [Crypto Alerts](apps/crypto-alerts/)
 Track crypto prices *directly* from exchanges and get instant alerts.
