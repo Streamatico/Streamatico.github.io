@@ -1,4 +1,5 @@
-# Privacy Policy - Crypto Alerts App
+# Privacy Policy
+## Crypto Alerts App
 
 ```
 Last revised: Jun 25 2023
