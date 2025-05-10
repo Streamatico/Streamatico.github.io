@@ -2,9 +2,9 @@
 # Privacy Policy
 
 ```
-Last revised: Apr 21 2025
+Last revised: May 10 2025
 ```
-Welcome to Polymarket Viewer app. This app provides a way to browse Polymarket prediction markets. This app is provided free of charge and is intended to be used as is.
+Welcome to Polymarket Viewer app. This app is an unofficial client that provides access to a curated selection of prediction markets from the Polymarket platform. To ensure a focused and policy-compliant experience, the app primarily features markets from specific categories, such as technology. This app is provided free of charge and is intended to be used as is.
 
 
 This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our App.
