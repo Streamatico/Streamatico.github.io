@@ -1,17 +1,22 @@
-## Welcome to Crypto Alerts app
+# Streamatico Apps
 
-### About
-Track crypto prices *directly* from exchanges and get alerts when prices change.
+Welcome! This is the official page for mobile applications developed by Streamatico.
+Here you can find information about our apps and links to their dedicated pages.
 
-### Install the app
-<p float="left" align="top">
-  <a href='https://play.google.com/store/apps/details?id=com.streamatico.cryptoalert'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' width="200" align="top"/></a>
-</p>
+---
 
-### Privacy
-The link to [Privacy Policy](/policy/privacy_policy)
+## Our Applications
 
-### Contact Us
-Available options:
-- Create an issue: [https://github.com/Streamatico/CryptoAlertApp/issues](https://github.com/Streamatico/CryptoAlertApp/issues)
-- Contact by e-mail: streamatico@gmail.com
+### [Crypto Alerts](apps/crypto-alerts/)
+Track crypto prices *directly* from exchanges and get instant alerts.
+
+---
+
+### [Polymarket Viewer](apps/polymarket-viewer/)
+Browse Polymarket prediction markets and stay informed.
+
+---
+
+## Contact Us
+
+For general inquiries, you can reach us at: streamatico@gmail.com

@@ -1,4 +1,4 @@
-# Privacy Policy
+# Privacy Policy - Polymarket Viewer App
 
 ```
 Last revised: Apr 21 2025
@@ -34,7 +34,7 @@ We want to inform you that whenever you use our App, in a case of an error in th
 
 Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory.
 
-This App does not use these “cookies” explicitly. However, the app may use third party code and libraries that use “cookies” to collect information and improve their services, or interact with APIs that use cookies. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this App.
+This App does not use these "cookies" explicitly. However, the app may use third party code and libraries that use "cookies" to collect information and improve their services, or interact with APIs that use cookies. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this App.
 
 ## Service Providers
 
@@ -60,4 +60,4 @@ We may update our Privacy Policy from time to time. Thus, you are advised to rev
 
 ## Contact Us
 
-If you have any questions or suggestions about our Privacy Policy, please contact us at: <streamatico+polymarket@gmail.com>.
+If you have any questions or suggestions about our Privacy Policy, please contact us at: <streamatico+polymarket@gmail.com>. 
