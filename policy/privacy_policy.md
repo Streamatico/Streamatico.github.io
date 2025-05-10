@@ -1,9 +1,10 @@
+##### Crypto Alerts App
 # Privacy Policy
-## Crypto Alerts App
 
 ```
 Last revised: Jun 25 2023
 ```
+
 Welcome to Crypto Alerts app by Streamatico. This app provides an easy way to track cryptocurrency prices across different exchanges and receive customizable alerts. This app is provided free of charge with limited functionality and is intended to be used as is.
 
 

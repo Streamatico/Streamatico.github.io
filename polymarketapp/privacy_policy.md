@@ -1,5 +1,5 @@
+##### Polymarket Viewer App
 # Privacy Policy
-## Polymarket Viewer App
 
 ```
 Last revised: Apr 21 2025
