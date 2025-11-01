@@ -2,7 +2,7 @@
 # Privacy Policy
 
 ```
-Last revised: May 10 2025
+Last revised: November 1 2025
 ```
 Welcome to Polymarket Viewer app. This app is an unofficial client that provides access to a curated selection of prediction markets from the Polymarket platform. To ensure a focused and policy-compliant experience, the app primarily features markets from specific categories, such as technology. This app is provided free of charge and is intended to be used as is.
 
@@ -17,25 +17,35 @@ The terms used in this Privacy Policy have the same meanings as in our Terms and
 
 ## Information Collection and Use
 
-For a better experience, while using our App, we may require you to provide us with aggregated or anonymized information. The information that we request will be retained by us and used as described in this privacy policy.
+For a better experience, while using our App, we may collect minimal anonymous usage statistics. The information collected is aggregated and anonymized, containing no personal identifiers.
 
-The app does use third party services that may collect information used to identify you.
+### Anonymous Usage Analytics
 
-Link to privacy policy of third party service providers used by the app
+The app collects the following anonymous technical information to help us understand app usage and improve the experience:
+- App version number
+- Android SDK version
+- Device language setting
+- Build type (debug/release)
+- First launch indicator
 
-- [Polimarket API](https://polymarket.com/tos)
-- [Google Firebase](https://firebase.google.com/support/privacy)
-- [Google Play Services](https://www.google.com/policies/privacy/)
+**Important:** This anonymous analytics feature can be disabled at any time in the app's About screen settings. No personal information or device identifiers are ever collected.
+
+### Third Party Services
+
+The app uses third party services to provide functionality:
+
+- [Polymarket API](https://polymarket.com/tos) - for market data
+- Cloudflare Workers - for anonymous analytics (opt-out available)
 
 ## Log Data
 
-We want to inform you that whenever you use our App, in a case of an error in the app we collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing our App, the time and date of your use of the App, and other statistics.
+We want to inform you that whenever you use our App, in a case of an error in the app we may collect minimal diagnostic data. When anonymous analytics is enabled, our analytics server may temporarily log your IP address for the purpose of aggregating usage statistics. No personally identifiable information is stored or retained beyond temporary server logs.
 
 ## Cookies
 
 Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory.
 
-This App does not use these "cookies" explicitly. However, the app may use third party code and libraries that use "cookies" to collect information and improve their services, or interact with APIs that use cookies. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this App.
+This App does not use cookies or tracking identifiers. The app may interact with third-party APIs (like Polymarket) that use cookies on their end. You have full control over anonymous analytics collection through the in-app settings.
 
 ## Service Providers
 
@@ -43,9 +53,9 @@ We may employ third-party companies and individuals due to the following reasons
 - To facilitate our App
 - To provide the App on our behalf
 - To perform App-related services (e.g., data fetching, image loading, chart display)
-- To assist us in analyzing how our App is used.
+- To collect anonymous usage statistics (opt-out available)
 
-We want to inform users of this App that these third parties may have access to limited user data (like IP address through network requests). The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
+We want to inform users of this App that these third parties may have access to minimal anonymous technical data (like IP address through network requests for analytics). The reason is to perform the tasks assigned to them on our behalf. No personal information or device identifiers are shared with third parties.
 
 ## Security
 
