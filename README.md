@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="images/streamatico-logo.png" alt="Streamatico Logo" width="150"/>
+</p>
+
 Welcome! This is the official page for mobile apps developed by Streamatico.
 
 ## Apps
