@@ -5,7 +5,7 @@ Browse Polymarket prediction markets.
 
 ### Install the app
 <p float="left" align="top">
-  <a href='https://play.google.com/store/apps/details?id=com.streamatico.polymarketapp'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' width="200" align="top"/></a>
+  <a href='https://f-droid.org/packages/com.streamatico.polymarketviewer/'><img alt='Get it on F-Droid' src='https://fdroid.gitlab.io/artwork/badge/get-it-on.png' width="200" align="top"/></a>
 </p>
 
 ### Privacy
