@@ -1,7 +1,7 @@
 ## Polymarket Viewer App
 
 ### About
-Browse Polymarket prediction markets.
+Browse [Polymarket](https://polymarket.com) prediction markets (Android only).
 
 **Key Features:**
 - View live prediction markets from Polymarket
